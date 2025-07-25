@@ -71,8 +71,5 @@ The game supports English, Simplified Chinese, and Traditional Chinese. Localiza
 ## 📲 Download
 [![Download on the App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/zombie-zone-clear-zombies/id1531598928)
 
-## 📄 License
-Copyright © 2020-2024 Banghua Zhao. All rights reserved.
-
 ---
 For questions or contributions, please open an issue or contact the author. 
