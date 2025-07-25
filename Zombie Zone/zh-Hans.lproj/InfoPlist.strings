@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  Zombie Zone
+
+  Created by Banghua Zhao on 9/13/20.
+  Copyright © 2020 Banghua Zhao. All rights reserved.
+*/
+
+"CFBundleDisplayName" = "僵尸领域";
+"NSUserTrackingUsageDescription" = "该标识符将用于向您投放个性化广告。";

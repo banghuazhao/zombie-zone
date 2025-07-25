@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  Zombie Zone
+
+  Created by Banghua Zhao on 9/13/20.
+  Copyright © 2020 Banghua Zhao. All rights reserved.
+*/
+
+"CFBundleDisplayName" = "Zombie Zone";
+"NSUserTrackingUsageDescription" = "This identifier will be used to deliver personalized ads to you.";

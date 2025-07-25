@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  Zombie Zone
+
+  Created by Banghua Zhao on 9/13/20.
+  Copyright © 2020 Banghua Zhao. All rights reserved.
+*/
+
+"Continue Previous Game?" = "Continue Previous Game?";
+"Level" = "Level";
+"No" = "No";
+"Out of Time!" = "Out of Time!";
+"Tap for Next Level" = "Tap for Next Level";
+"Tap to Play Again" = "Tap to Play Again";
+"Tap to Start" = "Tap to Start";
+"Yes" = "Yes";
+"You Win!" = "You Win!";
+"Zombies" = "Zombies";

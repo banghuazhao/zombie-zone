@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  Zombie Zone
+
+  Created by Banghua Zhao on 9/13/20.
+  Copyright © 2020 Banghua Zhao. All rights reserved.
+*/
+
+"Continue Previous Game?" = "继续游戏?";
+"Level" = "关卡";
+"No" = "否";
+"Out of Time!" = "时间到!";
+"Tap for Next Level" = "点击下一关";
+"Tap to Play Again" = "点击再玩一次";
+"Tap to Start" = "点击开始";
+"Yes" = "是";
+"You Win!" = "胜利!";
+"Zombies" = "僵尸";
